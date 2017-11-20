@@ -1,0 +1,73 @@
+[
+	{
+		"title":" 冬季外套羊毛大衣藏蓝色男士中长款毛呢外套潮",
+		"src1":"/src/assets/images/detail-ban81.jpg",
+		"src2":"/src/assets/images/detail-ban82.jpg",
+		"src3":"/src/assets/images/detail-ban83.jpg",
+		"src4":"/src/assets/images/detail-ban84.jpg",
+		"price" : "￥689",
+ 		"del" : "￥809"
+	},
+	{
+		"title":"太平鸟男装冬季新款黑色修身绅士双排扣羊毛大衣毛呢大衣潮流外套",
+		"src1":"../../src/assets/images/detail-ban11.jpg",
+		"src2":"../../src/assets/images/detail-ban12.jpg",
+		"src3":"../../src/assets/images/detail-ban13.jpg",
+		"src4":"../../src/assets/images/detail-ban14.jpg",
+		"price" : "￥809",
+ 		"del" : "￥1780"
+	},
+	{
+		"title":"太平鸟男装 冬季新款黑色轻薄韩版短款保暖立领羽绒服外套男",
+		"src1":"../../src/assets/images/detail-ban21.jpg",
+		"src2":"../../src/assets/images/detail-ban22.jpg",
+		"src3":"../../src/assets/images/detail-ban23.jpg",
+		"src4":"../../src/assets/images/detail-ban24.jpg",
+		"price" : "￥169",
+ 		"del" : "￥299"
+	},
+	{	"title":"粉色毛衣宽松圆领针织衫男套头毛衫潮2017秋季新款",
+		"src1":"../../src/assets/images/detail-ban31.jpg",
+		"src2":"../../src/assets/images/detail-ban32.jpg",
+		"src3":"../../src/assets/images/detail-ban33.jpg",
+		"src4":"../../src/assets/images/detail-ban34.jpg",
+		"price" : "￥88",
+ 		"del" : "￥138"
+	},
+	{
+		"title":"男装冬青年羊毛大衣翻领呢大衣双色双面呢大衣",
+		"src1":"../../src/assets/images/detail-ban41.jpg",
+		"src2":"../../src/assets/images/detail-ban42.jpg",
+		"src3":"../../src/assets/images/detail-ban43.jpg",
+		"src4":"../../src/assets/images/detail-ban44.jpg",
+		"price" : "￥399",
+ 		"del" : "￥438"
+	},
+	{
+		"title":"中长款男羊毛大衣双面呢大衣冬季oversize外套",
+		"src1":"../../src/assets/images/detail-ban51.jpg",
+		"src2":"../../src/assets/images/detail-ban52.jpg",
+		"src3":"../../src/assets/images/detail-ban53.jpg",
+		"src4":"../../src/assets/images/detail-ban54.jpg",
+		"price" : "￥69",
+ 		"del" : "￥138"
+	},
+	{
+		"title":"冬季厚款休闲裤韩版长裤黑色商务微弹男裤修身裤子",
+		"src1":"../../src/assets/images/detail-ban61.jpg",
+		"src2":"../../src/assets/images/detail-ban62.jpg",
+		"src3":"../../src/assets/images/detail-ban63.jpg",
+		"src4":"../../src/assets/images/detail-ban64.jpg",
+		"price" : "￥188",
+ 		"del" : "￥288"
+	},
+	{
+		"title":"连帽潮牌中长款羽绒服皮质闪电贴布男士外套",
+		"src1":"../../src/assets/images/detail-ban71.jpg",
+		"src2":"../../src/assets/images/detail-ban72.jpg",
+		"src3":"../../src/assets/images/detail-ban73.jpg",
+		"src4":"../../src/assets/images/detail-ban74.jpg",
+		"price" : "￥169",
+ 		"del" : "￥298"
+	}
+]

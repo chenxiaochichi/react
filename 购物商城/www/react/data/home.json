@@ -1,0 +1,34 @@
+[
+ 	{
+ 		"id" : "1",
+ 		"title" : "服装",
+ 		"t1" : "男装",
+ 		"t2" : "女装",
+ 		"src1" : "../../src/assets/images/index-ph01.png",
+ 		"src2" : "../../src/assets/images/index-ph02.png"
+ 	},
+ 	{
+ 		"id" : "2",
+ 		"title" : "鞋包",
+ 		"t1" : "美鞋",
+ 		"t2" : "包包",
+ 		"src1" : "../../src/assets/images/index-ph11.jpg",
+ 		"src2" : "../../src/assets/images/index-ph12.jpg"
+ 	},
+ 	{
+ 		"id" : "3",
+ 		"title" : "美妆",
+ 		"t1" : "护肤",
+ 		"t2" : "彩妆",
+ 		"src1" : "../../src/assets/images/index-ph21.jpg",
+ 		"src2" : "../../src/assets/images/index-ph22.jpg"
+ 	},
+ 	{
+ 		"id" : "4",
+ 		"title" : "食品",
+ 		"t1" : "切糕",
+ 		"t2" : "酥饼",
+ 		"src1" : "../../src/assets/images/index-03.png",
+ 		"src2" : "../../src/assets/images/index-ph04.png"
+ 	}
+ ]
